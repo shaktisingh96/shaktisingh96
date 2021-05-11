@@ -3,5 +3,5 @@
 <p align="center">
   <img src = "https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/yogitocat.png" width=300>
 </p>
-<img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/linkedin_connect_button.png" width="300">
+<img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/linkedin_connect_button.png" width="300"> <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
