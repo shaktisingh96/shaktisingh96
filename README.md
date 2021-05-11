@@ -3,7 +3,8 @@
 <!--
 **shaktisingh96/shaktisingh96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Move like a Feather, think like a monk. 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
