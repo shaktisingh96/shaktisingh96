@@ -1,8 +1,6 @@
+<p align="right"><img src = "https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Work.gif" width=600></p>
 # Hi there Earthling !!👋
 ## Move like a Feather. Think like a Monk.
-<p align="center">
-  <img src = "https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Fingers.gif" width=600>
-</p>
 <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/linkedin_connect_button.png" width="300">
 
 <!--
