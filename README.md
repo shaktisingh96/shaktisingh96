@@ -16,9 +16,10 @@
   • <a href="https://www.incubateind.com/cloudtitans">DigitalOcean Cloud Titans 🐋</a><br>
   • <a href="https://www.incubateind.com/cis">Code Innovation Series 👨🏻‍💻 powered by GitHub</a><br>
   • <a href="https://www.incubateind.com/innovationseries/ms">Microsoft India Innovation Series 💡</a><br>
-  
-You can connect with me here-<br>
+
+<p align="left">
+You can connect with me here-<br></p>
   <p align="center">
-  <a href="https://www.linkedin.com/in/shaktisingh96/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>&nbsp;&nbsp;<a href="https://twitter.com/thestarscreamer"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp;
-  <a href="mailto:shaktisinghshekhawatt@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="25"></img></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shaktisingh96/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="50"></img></a>&nbsp;&nbsp;<a href="https://twitter.com/thestarscreamer"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="50"></img></a>&nbsp;&nbsp;
+  <a href="mailto:shaktisinghshekhawatt@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="50"></img></a>&nbsp;&nbsp;
   
