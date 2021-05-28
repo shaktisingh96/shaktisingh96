@@ -30,6 +30,7 @@
 <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Microsoft.jpeg" width="300"> <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/GDG.jpeg" width="230">
 </p>
 
-See you around !! <p align="right">
+<p align="center">
+  See you around !! 
   <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/walkcyclevector24_dribbble.gif" width="300"></img></a>
 </p>
