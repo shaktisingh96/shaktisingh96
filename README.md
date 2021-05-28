@@ -5,6 +5,10 @@
 
 - - -
 <p align="center">
+  Community is the KEY ❤️
+</p>
+
+<p align="center">
   <img src = "https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/yogitocat.png" width=500>
 </p>
 <p align="left">
