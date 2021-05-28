@@ -17,7 +17,7 @@
   • <a href="https://www.incubateind.com/cis">Code Innovation Series 👨🏻‍💻 powered by GitHub</a><br>
   • <a href="https://www.incubateind.com/innovationseries/ms">Microsoft India Innovation Series 💡</a><br>
 
-<p align="left">
+<p align="center">
   You can connect with me here-<br>
 </p>
   <p align="center">
@@ -25,5 +25,7 @@
   <a href="mailto:shaktisinghshekhawatt@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="50"></img></a>&nbsp;&nbsp;
   
 - - -
+<p align="center">
 <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/GitHub.jpeg" width="300"><img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/India%20Innovation%20Series.jpeg" width="300"><img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Community.jpeg" width="300"><br>
-<img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Microsoft.jpeg" width="300"><img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/GDG.jpeg" width="280">
+<img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Microsoft.jpeg" width="300"><img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/GDG.jpeg" width="250">
+</p>
