@@ -31,6 +31,8 @@
 </p>
 
 <p align="center">
-  See you around !! 
+  See you around !!
+</p>
+<p align="center">
   <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/walkcyclevector24_dribbble.gif" width="300"></img></a>
 </p>
