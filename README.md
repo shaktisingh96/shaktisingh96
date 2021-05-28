@@ -2,6 +2,7 @@
   Hi there Folk 👋🏻 <br>
   Thanks for dropping by !! 
 </p>
+
 <p align="right">
   <a href="https://github.com/shaktisingh96/shaktisingh96/blob/main/walkcyclevector24_dribbble.gif" width="50"></img></a>
 </p>
