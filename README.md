@@ -25,8 +25,4 @@
   <a href="mailto:shaktisinghshekhawatt@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="50"></img></a>&nbsp;&nbsp;
   
 - - -
-![GDG](https://user-images.githubusercontent.com/65478185/120003091-0b271180-bff3-11eb-9f67-a22d79999ebd.jpeg width="500")
-![GDG](https://user-images.githubusercontent.com/65478185/120003114-10845c00-bff3-11eb-8db0-f6a103b99b4a.jpeg width="500")
-![India Innovation Series](https://user-images.githubusercontent.com/65478185/120003117-11b58900-bff3-11eb-8569-dc1e42964ce5.jpeg width="500")
-![GitHub](https://user-images.githubusercontent.com/65478185/120003119-124e1f80-bff3-11eb-9a09-c80f929fdbd5.jpeg width="500")
-![Microsoft](https://user-images.githubusercontent.com/65478185/120003123-12e6b600-bff3-11eb-9057-fc0da6061766.jpeg width="500")
+<img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/GDG.jpeg" width="500"><img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/GitHub.jpeg" width="500"><img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Microsoft.jpeg" width="500"><img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/India%20Innovation%20Series.jpeg" width="500"><img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Community.jpeg" width="500">
