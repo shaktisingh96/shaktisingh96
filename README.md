@@ -1,6 +1,3 @@
-<p align="right">
-  <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/walkcyclevector24_dribbble.gif" width="300"></img></a>
-</p>
 <p align="left">
   Hi there Folk 👋🏻 <br>
   Thanks for dropping by !! 
@@ -31,4 +28,8 @@
 <p align="center">
 <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/GitHub.jpeg" width="300"> <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/India%20Innovation%20Series.jpeg" width="300"> <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Community.jpeg" width="300"><br>
 <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Microsoft.jpeg" width="300"> <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/GDG.jpeg" width="230">
+</p>
+
+See you around !! <p align="right">
+  <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/walkcyclevector24_dribbble.gif" width="300"></img></a>
 </p>
