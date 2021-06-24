@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png" width="900">
+<img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png" width="1000">
 </p>
 
 - - -
