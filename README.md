@@ -24,10 +24,6 @@
   <a href="mailto:shaktisinghshekhawatt@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="50"></img></a>&nbsp;&nbsp;
   
 - - -
-<p align="center">
-<img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/GitHub.jpeg" width="300"> <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/India%20Innovation%20Series.jpeg" width="300"> <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Community.jpeg" width="300"><br>
-<img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Microsoft.jpeg" width="300"> <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/GDG.jpeg" width="230">
-</p>
 
 <p align="center">
   See you around !!
