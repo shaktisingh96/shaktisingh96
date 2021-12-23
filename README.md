@@ -7,7 +7,7 @@
   Community is the KEY ❤️
 </p>
 
-<p align="center">Hi there earthling, so by far you might have guessed what my name is and what do I do for a living 🕵️‍♂️.<br>  I'm a Program and Growth Manager at <a href="https://codingblocks.com/">Coding Blocks</a>,<br> Ex-Program Manager at <a href="https://www.incubateind.com/">IncubateIND</a>.
+<p align="center">Hi there earthling, so by far you might have guessed what my name is and what do I do for a living 🕵️‍♂️.<br>  Ex-Program and Growth Manager at <a href="https://codingblocks.com/">Coding Blocks</a>,<br> Ex-Program Manager at <a href="https://www.incubateind.com/">IncubateIND</a>.
 
   Some pan India and Global initiatives I've worked in/for -<br>
   • <a href="https://github-externships.github.io/externship/">GitHub Externship 🎯</a><br>
