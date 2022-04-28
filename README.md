@@ -1,33 +1,20 @@
-<p align="center">
-<img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/Image/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png" width="1000">
-</p>
+* 🧠  I'm learning about System Design, UI/UX and deep diving into the world of WEB3* 🤝  I'm open to collaborating on Hackathons, Tech Meetups, DevRel Talks.* ⚡  I <3 Travelling, Exploring new places & people.
 
-- - -
-<p align="center">
-  Community is the KEY ❤️
-</p>
+<a href="https://www.twitter.com/thestarscreamer" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/thestarscreamer?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.github.com/shaktisingh96" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/shaktisingh96?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<p align="center">Hi there earthling, so by far you might have guessed what my name is and what do I do for a living 🕵️‍♂️.<br>  Ex-Program and Growth Manager at <a href="https://codingblocks.com/">Coding Blocks</a>,<br> Ex-Program Manager at <a href="https://www.incubateind.com/">IncubateIND</a>.
+### Skills
 
-  Some pan India and Global initiatives I've worked in/for -<br>
-  • <a href="https://github-externships.github.io/externship/">GitHub Externship 🎯</a><br>
-  • <a href="https://education.github.com/schools">GitHub Campus Program India 🚩</a><br>
-  • <a href="https://www.incubateind.com/cloudtitans">DigitalOcean Cloud Titans 🐋</a><br>
-  • <a href="https://www.incubateind.com/cis">Code Innovation Series 👨🏻‍💻 powered by GitHub</a><br>
-  • <a href="https://www.incubateind.com/innovationseries/ms">Microsoft India Innovation Series 💡</a><br>
+<p align="left"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a><a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a></p>
+### Socials<p align="left"> <a href="https://www.github.com/shaktisingh96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://shaktisingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shaktisingh96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/thestarscreamer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<p align="center">
-  You can connect with me here-<br>
-</p>
-  <p align="center">
-  <a href="https://www.linkedin.com/in/shaktisingh96/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="50"></img></a>&nbsp;&nbsp;<a href="https://twitter.com/thestarscreamer"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="50"></img></a>&nbsp;&nbsp;
-  <a href="mailto:shaktisinghshekhawatt@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="50"></img></a>&nbsp;&nbsp;
-  
-- - -
+### Badges
 
-<p align="center">
-  See you around !!
-</p>
-<p align="center">
-  <img src="https://github.com/shaktisingh96/shaktisingh96/blob/main/walkcyclevector24_dribbble.gif" width="300"></img></a>
-</p>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/shaktisingh96"><img src="https://github-readme-stats.vercel.app/api?username=shaktisingh96&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shaktisingh96's GitHub stats" /></a>
+
+<a href="https://github.com/shaktisingh96" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktisingh96&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/shaktisingh96"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
