@@ -1,8 +1,6 @@
 * 🧠  I'm learning about System Design, UI/UX and deep diving into the world of WEB3
-* * 🤝  I'm open to collaborating on Hackathons, Tech Meetups, DevRel Talks.
-* * ⚡  I <3 Travelling, Exploring new places & people.
-
-<a href="https://www.twitter.com/thestarscreamer" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/thestarscreamer?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.github.com/shaktisingh96" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/shaktisingh96?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+* 🤝  I'm open to collaborating on Hackathons, Tech Meetups, DevRel Talks.
+* ⚡  I <3 Travelling, Exploring new places & people.
 
 ### Skills
 
