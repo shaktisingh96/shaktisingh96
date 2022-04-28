@@ -1,5 +1,10 @@
 Hi 👋 My name is Shakti Singh
-=============================Developer Community & Outreach Executive----------------------------------------At AngelHack, I work to bridge tech companies to the brightest talents around the globe by engaging Developers from Communities and across the globe.
+=============================
+
+Developer Community & Outreach Executive @ AngelHack
+----------------------------------------
+I work to bridge tech companies to the brightest talents around the globe by engaging Developers from Communities and across the globe.
+
 * 🌍  I'm based in India* ✉️  You can contact me at [shaktisinghshekhawatt@gmail.com](mailto:shaktisinghshekhawatt@gmail.com)
 * 🚀  I'm currently working on [CELO X HUOBI: Stablecoin in Web3 & Sustainability](http://celohuobihack.com/)
 
