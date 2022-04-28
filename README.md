@@ -1,4 +1,4 @@
-Hi 👋 My name is Shakti Singh
+Hello Amigos 👋 My name is Shakti Singh
 =============================
 
 Developer Community & Outreach Executive @ AngelHack
