@@ -1,12 +1,12 @@
 Hello Amigos 👋 My name is Shakti Singh
 =============================
 
-Program Manager @ Skillenza
+Program Manager @ Hack2skill
 ----------------------------------------
 I work to bridge tech companies to the brightest talents by engaging Developers from Communities and across the globe.
 
 * 🌍  I'm based in India* ✉️  You can contact me at [shaktisinghshekhawatt@gmail.com](mailto:shaktisinghshekhawatt@gmail.com)
-* 🚀  Building & Managing end-to-end [Skillenza](skillenza.com) ecosystem.
+* 🚀  Building & Managing end-to-end [Hack2skill](hack2skill.com) ecosystem.
 
 * 🧠  I'm learning about System Design, UI/UX and deep diving into the world of WEB3
 * 🤝  I'm open to collaborating on Hackathons, Tech Meetups, DevRel Talks.
